@@ -9,7 +9,7 @@ Analyze the brief security scenarios below and identify which element of the CIA
 
 2. A technology firm maintains an alternate site that is running at all times. Operations can be moved to this location in the event of a major disaster.
 
-  
+
 
 3. Employees need key cards in order to enter their company offices.
 
@@ -41,6 +41,6 @@ Analyze the brief security scenarios below and identify which element of the CIA
 
 10. A cybercriminal launches a DDoS attack that floods a website with unwanted traffic from multiple computers and takes the site offline. 
 
----  
+---
 
 Trilogy Education Services © 2020. All Rights Reserved.
