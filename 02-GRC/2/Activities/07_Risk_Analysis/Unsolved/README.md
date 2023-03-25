@@ -36,7 +36,7 @@ You can access the following tabs at the bottom of the document:
    - :warning: When creating your heat map, only choose **probability** and **impact** values of 10, 20, 30 or 40.  Otherwise, the heat map will malfunction.
 
 2. Next, consider less critical risks. Add at least five additional risks that are medium- or high-impact, but are not very likely.
- 
+
 3. When you have at least ten risks, move on to the **Risk Matrix** tab and take a moment to assess Geldcorp's risks. 
 
 4. Move on to the **Heat Map**. Scroll down and click the **Update Chart Data and Labels** button on the left. Answer the following questions:
@@ -49,5 +49,5 @@ You can access the following tabs at the bottom of the document:
 
     - Do these results align with your expectations?
 
---- 
+---
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
