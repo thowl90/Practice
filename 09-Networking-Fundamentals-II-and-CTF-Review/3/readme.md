@@ -98,7 +98,7 @@ These resources are provided as optional, recommended resources to supplement th
 
 ### Module 9: Challenge
 
-This module's Challenge assignment can be viewed here: 
+This module's Challenge assignment can be viewed right here: 
 
 - [Module Challenge File](https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-CYBER-PT-03-2023-U-LOLC/-/blob/main/09-Networking-Fundamentals-II-and-CTF-Review/Homework/readme.md)
 
