@@ -1,0 +1,12 @@
+Times that losses occurred each day:
+        03/10-- 5AM,8AM,2PM,8PM,11PM
+
+        03/12-- 5AM,8AM,2PM,8Pm,11PM
+
+        03/15-- 5AM, 8AM,2PM,8PM,11PM
+Repeat player during losses:
+        Mylie Schmidt
+wc:
+        03/10= 7
+        03/12= 7
+        03/15= 5
